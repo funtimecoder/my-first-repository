@@ -1,0 +1,4 @@
+# Ignore all SQLite databases
+db/*.sqlite3
+
+# Testing what happen if I made another change in a git added file.
